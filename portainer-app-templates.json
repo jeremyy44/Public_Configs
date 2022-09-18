@@ -7574,7 +7574,7 @@
 			"note": "</p><p>Don't forget to create the volume directories on the host file system.</p><p>mkdir -p /mnt/media/docker-files/gitlab/config<br>/mnt/media/docker-files/gitlab/log<br>/mnt/media/docker-files/gitlab/data</p>",
 			"description": "GitLab is an open source code repository and collaborative software development platform for large DevOps and DevSecOps projects. GitLab is free for individuals. GitLab offers a location for online code storage and capabilities for issue tracking and CI/CD.",
 			"platform": "linux",
-			"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/GitLab_logo.svg/2560px-GitLab_logo.svg.png",
+			"logo": "/mnt/media/docker-files/logos/GitLab_logo.png",
 			"image": "gitlab/gitlab-ce:latest",
 			"env": [
 				{
