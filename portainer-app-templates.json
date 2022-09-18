@@ -7583,7 +7583,7 @@
 				{
 					"name": "GITLAB_OMNIBUS_CONFIG",
 					"label": "GITLAB_OMNIBUS_CONFIG",
-					"default": "external_url 'CHANGEME'"
+					"default": "external_url 'https://exemple.domain.com/'"
 				}
 			],
 			"ports": [
