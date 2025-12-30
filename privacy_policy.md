@@ -25,7 +25,7 @@ If the app’s behavior changes in the future regarding data usage, this policy 
 If you have any questions about this privacy policy, you may contact:
 
 **Tech Sync Central**  
-Email: contact@techsynccentral.ca
+Email: contact@techsynccentral.com
 
 ---
 
@@ -56,4 +56,4 @@ Si le fonctionnement de l’application change à l’avenir concernant l’util
 Pour toute question concernant cette politique de confidentialité :
 
 **Tech Sync Central**  
-Courriel : contact@techsynccentral.ca
+Courriel : contact@techsynccentral.com
